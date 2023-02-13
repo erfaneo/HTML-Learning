@@ -1,0 +1,16 @@
+div {
+    width: 500px;
+    height: 500px;
+    border: 2px dotted red;
+    background-image: url(../photo_2021-02-19_12-37-24.jpg);
+}
+
+.a {
+    border: 4px dotted orangered;
+}
+
+.b {
+    border: 4px groove rgb(226, 43, 43);
+    border-radius: 10%;
+    background-image: url(../10-109581_wallpapers-for-city-lights-backgrounds-data-src-city.jpg)
+}
